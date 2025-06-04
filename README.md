@@ -1,2 +1,2 @@
 # SpatialMind
-Official Implementation for Spatial Understanding from Videos: Structured Prompts Meet Simulation Data
+We are continually updating our code and data.
